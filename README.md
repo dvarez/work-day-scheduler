@@ -1,1 +1,22 @@
 # work-day-scheduler
+We are creating a day planner for daily use for the user. Important events are logged, and refered to later for use. This is a valuable tool for work effiency. 
+the site can be viewed at:  
+
+
+
+
+
+
+GIVEN I am using a daily planner to create a schedule
+WHEN I open the planner
+THEN the current day is displayed at the top of the calendar
+WHEN I scroll down
+THEN I am presented with timeblocks for standard business hours
+WHEN I view the timeblocks for that day
+THEN each timeblock is color coded to indicate whether it is in the past, present, or future
+WHEN I click into a timeblock
+THEN I can enter an event
+WHEN I click the save button for that timeblock
+THEN the text for that event is saved in local storage
+WHEN I refresh the page
+THEN the saved events persist
