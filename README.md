@@ -1,6 +1,6 @@
 # work-day-scheduler
 We are creating a day planner for daily use for the user. Important events are logged, and refered to later for use. This is a valuable tool for work effiency. 
-the site can be viewed at:  
+the site can be viewed at:  https://dvarez.github.io/work-day-scheduler/
 
 
 
